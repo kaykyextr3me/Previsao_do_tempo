@@ -4,6 +4,7 @@
 ## Tecnologias:
 → Python <br>
 → Flask <br>
+→ APIs <br>
 → openpyxl <br>
 → json <br>
 → requests <br>
