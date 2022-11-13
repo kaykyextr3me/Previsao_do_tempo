@@ -1,4 +1,4 @@
-# Previsao_do_tempo
+# Previsão_do_tempo
 ## Aplicação Web para visualização da temperatura máxima de qualquer cidade do Brasil
 
 ## Tecnologias:
